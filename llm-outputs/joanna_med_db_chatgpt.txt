@@ -1,0 +1,21 @@
+Axis 1: This axis might capture a general medical condition, as it has mixed positive and negative values across different medical words.
+
+Axis 2: Positive values on this axis seem to be associated with respiratory conditions, as seen with words like "emphysema," "bronchitis," and "pneumonia."
+
+Axis 3: This axis could be related to cardiovascular health. Diseases like "hypertension" and "cholesterol" have relatively high positive values.
+
+Axis 4: This axis might be associated with joint-related conditions, as suggested by the positive values for "arthritis."
+
+Axis 5: Positive values on this axis seem to be related to inflammation or immune system response, as seen with words like "insomnia" and "colitis."
+
+Axis 6: This axis could represent neurological conditions, as suggested by the positive values for "migraine," "parkinsonism," and "myocarditis."
+
+Axis 7: Positive values on this axis might be associated with blood-related conditions, as seen with "leukemia."
+
+Axis 8: This axis could be related to skin conditions, as suggested by the positive values for "eczema."
+
+Axis 9: Negative values on this axis might be associated with digestive issues, as seen with "diarrhea."
+
+Axis 10: This axis might capture mental health aspects, as suggested by the positive values for "depression."
+
+It's important to note that these interpretations are based on patterns observed in the provided word embeddings and may not precisely reflect the semantic features encoded by the model. Additionally, the interpretation heavily relies on the quality and representativeness of the training data and the model architecture. For a more accurate and domain-specific interpretation, consulting with experts in the medical field or the creators of the model would be beneficial.

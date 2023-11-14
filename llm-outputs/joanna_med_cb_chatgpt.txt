@@ -1,0 +1,19 @@
+Axis 1: This axis seems to capture a general aspect related to various diseases, as most values are negative. The magnitude varies across different medical words.
+
+Axis 2: This axis could represent a spectrum related to inflammation or severity. Words like "insomnia" and "cholesterol" have negative values, while diseases like "migraine" and "pneumonia" have positive values.
+
+Axis 3: Positive values on this axis might indicate a cardiovascular or circulatory system-related aspect. Words like "hypertension," "atherosclerosis," and "cholesterol" have relatively high positive values.
+
+Axis 4: This axis seems to capture a respiratory aspect. Words like "asthma," "bronchitis," and "pneumonia" have positive values, while "cholesterol" and "depression" have negative values.
+
+Axis 5: This axis might be related to chronicity or long-term conditions. Diseases like "emphysema" and "hypertension" have positive values, while words like "insomnia" and "depression" have negative values.
+
+Axis 6: Positive values on this axis seem to be associated with inflammation or immune system response. Words like "insomnia" and "depression" have negative values, while diseases like "asthma" and "eczema" have positive values.
+
+Axis 7: This axis appears to be associated with neurological conditions. Words like "parkinsonism" and "migraine" have positive values, while "cholesterol" has a negative value.
+
+Axis 8: This axis could be related to the endocrine system or hormonal balance. Diseases like "hypertension," "thyroiditis," and "cholesterol" have relatively high values.
+
+Axis 9: Positive values on this axis might indicate a more acute or sudden-onset aspect. Words like "insomnia" and "cholesterol" have negative values, while "pneumonia" and "myocarditis" have positive values.
+
+Axis 10: This axis might be associated with pain or discomfort. Words like "migraine," "arthritis," and "myocarditis" have relatively high positive values.

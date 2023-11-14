@@ -1,0 +1,19 @@
+Axis 1 (Dimension 1): Indicates a distinction between water-based sports (positive) and land-based activities (negative).
+
+Axis 2 (Dimension 2): Captures a tendency toward racket sports (positive) versus a lower emphasis on racket-centric activities (negative).
+
+Axis 3 (Dimension 3): Reflects an association with team sports (positive) or a lower connection with team-oriented activities (negative).
+
+Axis 4 (Dimension 4): Emphasizes a preference for combat sports (positive) versus a reduced emphasis on combat-related activities (negative).
+
+Axis 5 (Dimension 5): Signifies an inclination toward endurance sports (positive) or a diminished inclination toward endurance-related activities (negative).
+
+Axis 6 (Dimension 6): Indicates an association with ball sports (positive) or a weaker connection with ball-centric sports (negative).
+
+Axis 7 (Dimension 7): Highlights a distinction between individual sports (positive) and team sports (negative).
+
+Axis 8 (Dimension 8): Captures a preference for winter sports (positive) versus a lower preference for winter-related activities (negative).
+
+Axis 9 (Dimension 9): Signifies an inclination toward extreme sports (positive) or a reduced inclination toward extreme activities (negative).
+
+Axis 10 (Dimension 10): Reflects a tendency toward sports involving a ball (positive) or a reduced association with ball-centric sports (negative).
