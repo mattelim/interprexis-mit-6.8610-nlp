@@ -1,0 +1,106 @@
+{
+  "id": "chatcmpl-8Kpug43lXqYfMFZdrin896QfLBeLJ",
+  "object": "chat.completion",
+  "created": 1699976806,
+  "model": "gpt-3.5-turbo-1106",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Sure, here are the scores for the given words based on their relation to the \"Verb or Action Related\" criteria:\n\n['companion', 'toast', 'lounge', 'watch', 'haul']\n\n[0, 0.5, 0, 1, 1]\n\nThis is a Python list of scores for each corresponding word, where positive values suggest a high correlation to the criterion and 0 suggests that the criterion is not applicable."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 182,
+    "completion_tokens": 91,
+    "total_tokens": 273
+  },
+  "system_fingerprint": "fp_eeff13170a"
+}{
+  "id": "chatcmpl-8KpvLo3f3Oqa5lWCfimI8ljFvfKGF",
+  "object": "chat.completion",
+  "created": 1699976847,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.6, -0.2, 0.7, 0.8]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 182,
+    "completion_tokens": 25,
+    "total_tokens": 207
+  }
+}{
+  "id": "chatcmpl-8KpvlvCEtAuhoCjZYziw3zx2TwKxf",
+  "object": "chat.completion",
+  "created": 1699976873,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.7, -0.1, 0.8, 0.8, -0.1, -0.8, 0.9, -0.9, 0.7, 0.6, 0.9, 0.1, 0.1, -0.4, 0.9, 0.9, 0.9, 0.8, 0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "completion_tokens": 100,
+    "total_tokens": 336
+  }
+}
+
+#####
+
+{
+  "id": "chatcmpl-8Kpz1TdworOTeNy8op6ZhGP5Uisw1",
+  "object": "chat.completion",
+  "created": 1699977075,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "['companion', 'toast', 'lounge', 'watch', 'haul', 'combination', 'majesty', 'extinguish', 'nutrient', 'bark', 'rest', 'hold', 'drainage', 'chill', 'time', 'drink', 'eat', 'journey', 'surf', 'shipment', 'measure', 'devour', 'cutlery', 'catch', 'drive', 'cooling', 'sail', 'flutter', 'moo', 'descend', 'commute', 'score', 'indulgence', 'cutting', 'containment', 'communication', 'transportation', 'glide', 'slice', 'drying', 'tote', 'nurture', 'breakfast', 'cut', 'throw', 'brush', 'competition', 'signal', 'carry', 'mobility', 'dine', 'conformity', 'Thanksgiving', 'comfort', 'call', 'soar', 'pause', 'input', 'hygiene', 'click', 'health', 'entertainment', 'halt', 'crunch', 'softness', 'control', 'loyalty', 'formality', 'individuality', 'gallop', 'protection', 'gathering', 'pattern', 'walk', 'productivity', 'purr', 'sip', 'decoration', 'bite', 'accessory', 'reflection', 'rinse', 'uncork', 'skate', 'grace', 'support', 'scoop', 'tick', 'flight', 'type', 'read', 'bake', 'navigation', 'poke', 'descent', 'voyage', 'heating', 'thrill', 'consume', 'fly', 'hug', 'knowledge', 'shield', 'transit', 'solitude', 'heat', 'fasten', 'celebration', 'hit', 'flush', 'adventure', 'peel', 'song', 'elegance', 'recreation', 'roar', 'trumpet', 'container', 'aroma', 'childhood', 'measurement', 'sanitation', 'vibration', 'dry', 'growth', 'safety', 'swing', 'crave', 'ride', 'sharpness', 'stride', 'graze', 'excitement', 'sit', 'indulge', 'acidity', 'prong', 'chop', 'munch', 'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train', 'truck', 'boat', 'traffic light', 'fire hydrant', 'stop sign', 'parking meter', 'bench', 'bird', 'cat', 'dog', 'horse', 'sheep', 'cow', 'elephant', 'bear', 'zebra', 'giraffe', 'backpack', 'umbrella', 'handbag', 'tie', 'suitcase', 'frisbee', 'skis', 'snowboard', 'sports ball', 'kite', 'baseball bat', 'baseball glove', 'skateboard', 'surfboard', 'tennis racket', 'bottle', 'wine glass', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'banana', 'apple', 'sandwich', 'orange', 'broccoli', 'carrot', 'hot dog', 'pizza', 'donut', 'cake', 'chair', 'couch', 'potted plant', 'bed', 'dining table', 'toilet', 'tv', 'laptop', 'mouse', 'remote', 'keyboard', 'cell phone', 'microwave', 'oven', 'toaster', 'sink', 'refrigerator', 'book', 'clock', 'vase', 'scissors', 'teddy bear', 'hair drier', 'toothbrush', '#', '$', 'US$', 'C$', \"''\", ',', 'Wa', '.', '?', '!', '--', ';', ':', '...', '-', 'and', 'or', 'But', 'but', 'million', 'billion', 'one', 'two', '10', 'the', 'a', 'The', 'an', 'this', 'there', 'There', 'Perestroika', 'besuboru', 'de', 'etc.', 'of', 'for', 'on', 'new', 'other', 'last', 'many', 'higher', 'lower', 'largest', 'least', 'latest', 'best', '1', '2', '3', '4', '5', 'will', 'would', 'could', 'can', 'may', '%', 'company', 'year', 'market', 'trading', 'Mr.', 'U.S.', 'New', 'Corp.', 'York', 'Containers', 'Securities', 'Industries', 'Materials', 'Soviets', 'years', 'shares', 'prices', 'cents', 'funds', 'all', 'such', 'half', 'Such', 'All', \"'\", 'it', 'he', 'they', 'I', 'It', 'its', 'their', 'his', 'her', 'our', \"n't\", 'also', 'not', 'only', 'even', 'more', 'earlier', 'less', 'better', 'longer', 'most', 'Most', 'up', 'out', 'off', 'in', 'down', '&', 'to', 'To', 'TO', 'OK', 'Oh', 'no', 'be', 'make', 'buy', 'take', 'said', 'was', 'were', 'had', 'did', 'including', 'according', 'being', 'growing', 'trying', 'been', 'expected', 'made', 'compared', 'based', 'are', 'have', 'say', 'do', \"'re\", 'is', 'has', 'says', \"'s\", 'does', 'which', 'that', 'That', 'THAT', 'who', 'what', 'What', 'whom', 'Who', 'whose', 'when', 'where', 'how', 'When', 'why', '``', '`']"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1468,
+    "completion_tokens": 1303,
+    "total_tokens": 2771
+  }
+}{
+  "id": "chatcmpl-8Kq6vQ4FFJZiSDZ0aNMguL94WgEoq",
+  "object": "chat.completion",
+  "created": 1699977565,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.8, 0.0, 1.0, 1.0, 0.0, -1.0, 0.9, -1.0, 0.6, 0.6, 1.0, -0.5, 0.5, -0.7, 0.9, 0.9, 0.8, 0.8, 0.0, 0.6, 0.9, -0.3, 0.9, 1.0, 0.0, 0.8, 0.7, 0.3, 0.7, 0.9, 0.6, -0.6, 0.0, -0.2, 0.5, 0.5, 0.8, 0.8, 0.7, -0.2, 1.0, -0.4, 0.9, 1.0, 0.8, -0.6, 0.5, 1.0, 0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 346,
+    "completion_tokens": 250,
+    "total_tokens": 596
+  }
+}
