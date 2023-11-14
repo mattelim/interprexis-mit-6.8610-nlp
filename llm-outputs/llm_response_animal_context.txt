@@ -1,0 +1,58 @@
+No context, single word:
+
+	•			Axis 1 (Confidence: 60%): Possibly captures domestication or familiarity. Cats and dogs have more negative values, suggesting a closer association with humans compared to sheep, horses, and birds.
+	•			Axis 2 (Confidence: 50%): May represent size or physical attributes. The values are small and vary slightly, indicating a less distinct characteristic.
+	•			Axis 3 (Confidence: 80%): Likely represents freedom or the ability to fly. The notably more negative value for 'Bird' supports this inference.
+	•			Axis 4 (Confidence: 60%): Could be related to habitat or environmental adaptation. All values are negative but vary in magnitude.
+	•			Axis 5 (Confidence: 70%): Seems to capture mobility or agility, especially with 'Bird' having a distinctly higher positive value.
+	•			Axis 6 (Confidence: 65%): Potentially related to social behavior or domestication level, as all values are positive but vary among different animals.
+	•			Axis 7 (Confidence: 55%): Might represent intelligence or trainability. The values are mostly positive but vary, indicating different levels among these animals.
+	•			Axis 8 (Confidence: 50%): Could be associated with physical characteristics like size or color, given the positive but lower values.
+	•			Axis 9 (Confidence: 40%): Represents a less clear trait, possibly an abstract or inconsistent characteristic due to the mix of negative and positive values.
+	•			Axis 10 (Confidence: 60%): Likely related to the animal's utility or role in human society, as indicated by mostly negative values.
+
+Top 3: 
+
+	•			Axis 3 - Freedom or Ability to Fly (Confidence: 80%): This axis is particularly distinctive for 'Bird', showing a strong negative value, which likely represents the ability to fly or a sense of freedom, a characteristic unique to birds among the given animals.
+	•			Axis 5 - Mobility or Agility (Confidence: 70%): The high positive value for 'Bird' on this axis suggests it might be capturing aspects of mobility or agility. This trait is significant as it differentiates the animals based on their physical capabilities and movement styles.
+	•			Axis 1 - Domestication or Familiarity (Confidence: 60%): This axis shows a clear distinction between animals traditionally considered pets (cats and dogs) and others. It likely represents the degree of domestication or closeness to human society, which is a fundamental aspect when categorizing these animals.
+
+
+Word + Context (specific) - A: 
+	•			Axis 1: Varied values, with 'Sheep_A' having a significantly high positive value. This might represent an aspect like docility or calmness.
+	•			Axis 2: A wide range of values. Higher values for 'Dog_A' and 'Bird_A' could indicate sociability or adaptability.
+	•			Axis 3: Negative values for 'Bird_A' and 'Horse_A', which might signify a trait like independence or wildness.
+	•			Axis 4: Mixed values, possibly representing a less distinct trait like environmental adaptation or specific behavior.
+	•			Axis 5: High positive value for 'Bird_A' and 'Dog_A', suggesting this axis might capture agility or energy.
+	•			Axis 6: A mix of positive and negative values, potentially related to social behavior or interaction with humans.
+	•			Axis 7: Varied values, with negative for 'Horse_A' and 'Bird_A', possibly representing a characteristic like trainability or domestication.
+	•			Axis 8: Mostly positive values, potentially related to physical size or presence.
+	•			Axis 9: Varied positive values. This could be associated with a characteristic like temperament or personality.
+	•			Axis 10: A mix of positive and negative values, possibly representing a general aspect of the animals' lifestyle or utility.
+
+Top 3: 
+
+	•			Axis 5 - Agility or Energy (Confidence: 70%): Significant in distinguishing 'Bird_A' and 'Dog_A' from others, possibly indicating their higher energy or agility levels.
+	•			Axis 1 - Docility or Calmness (Confidence: 65%): 'Sheep_A' stands out with its high positive value, suggesting this trait is highly relevant for representing these animals.
+	•			Axis 3 - Independence or Wildness (Confidence: 60%): The negative values for 'Bird_A' and 'Horse_A' suggest this axis effectively captures a sense of independence or natural wildness.
+
+
+
+Word + Context (general) - B: 
+	•			Axis 1: Shows varied values, with 'Horse_B' having a high positive value, possibly representing strength or robustness.
+	•			Axis 2: Ranges from negative to positive, with 'Bird_B' showing a high positive value. This might indicate a trait like sociability or adaptability.
+	•			Axis 3: Significant negative value for 'Bird_B', which could signify a trait related to freedom or flight.
+	•			Axis 4: Mixed values, potentially related to adaptability to environments or specific behaviors.
+	•			Axis 5: Notable high values for 'Bird_B' and 'Dog_B', suggesting agility or energy.
+	•			Axis 6: Varied positive and negative values, which could be related to social behavior or interaction with humans.
+	•			Axis 7: Diverse values, with 'Bird_B' showing a significant negative value. This might represent a characteristic like independence or wildness.
+	•			Axis 8: Mostly positive values, possibly related to physical presence or size.
+	•			Axis 9: Varied positive and negative values, potentially associated with temperament or personality.
+	•			Axis 10: A mix of positive and negative values, possibly representing a general lifestyle or utility trait.
+	•	
+Top 3:
+	•			Axis 3 - Freedom or Flight (Confidence: 70%): The significantly negative value for 'Bird_B' suggests this axis effectively captures aspects of flight or freedom, distinguishing birds from other animals.
+	•			Axis 5 - Agility or Energy (Confidence: 65%): High values for 'Bird_B' and 'Dog_B' indicate this axis is important for representing their higher energy or agility levels.
+	•			Axis 1 - Strength or Robustness (Confidence: 60%): 'Horse_B' stands out with its high positive value, suggesting this trait is significant for differentiating these animals.
+
+
