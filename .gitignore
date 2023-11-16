@@ -7,3 +7,4 @@ output.csv
 .ipynb_checkpoints
 .vscode
 llm_scores.csv
+auto_output.txt
