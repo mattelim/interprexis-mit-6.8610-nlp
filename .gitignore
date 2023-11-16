@@ -6,3 +6,4 @@ comparison-between-runs.txt
 output.csv
 .ipynb_checkpoints
 .vscode
+llm_scores.csv
