@@ -1,6 +1,8 @@
 secrets.json
 output.txt
-eval_output.txt
+train_output.txt
+interpretations.txt
+*output.csv
 .DS_Store
 comparison-between-runs.txt
 output.csv
