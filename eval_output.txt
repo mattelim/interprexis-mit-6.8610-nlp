@@ -1,0 +1,1629 @@
+{
+  "id": "chatcmpl-8Kpug43lXqYfMFZdrin896QfLBeLJ",
+  "object": "chat.completion",
+  "created": 1699976806,
+  "model": "gpt-3.5-turbo-1106",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Sure, here are the scores for the given words based on their relation to the \"Verb or Action Related\" criteria:\n\n['companion', 'toast', 'lounge', 'watch', 'haul']\n\n[0, 0.5, 0, 1, 1]\n\nThis is a Python list of scores for each corresponding word, where positive values suggest a high correlation to the criterion and 0 suggests that the criterion is not applicable."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 182,
+    "completion_tokens": 91,
+    "total_tokens": 273
+  },
+  "system_fingerprint": "fp_eeff13170a"
+}{
+  "id": "chatcmpl-8KpvLo3f3Oqa5lWCfimI8ljFvfKGF",
+  "object": "chat.completion",
+  "created": 1699976847,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.6, -0.2, 0.7, 0.8]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 182,
+    "completion_tokens": 25,
+    "total_tokens": 207
+  }
+}{
+  "id": "chatcmpl-8KpvlvCEtAuhoCjZYziw3zx2TwKxf",
+  "object": "chat.completion",
+  "created": 1699976873,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.7, -0.1, 0.8, 0.8, -0.1, -0.8, 0.9, -0.9, 0.7, 0.6, 0.9, 0.1, 0.1, -0.4, 0.9, 0.9, 0.9, 0.8, 0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 236,
+    "completion_tokens": 100,
+    "total_tokens": 336
+  }
+}
+
+#####
+
+{
+  "id": "chatcmpl-8Kpz1TdworOTeNy8op6ZhGP5Uisw1",
+  "object": "chat.completion",
+  "created": 1699977075,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "['companion', 'toast', 'lounge', 'watch', 'haul', 'combination', 'majesty', 'extinguish', 'nutrient', 'bark', 'rest', 'hold', 'drainage', 'chill', 'time', 'drink', 'eat', 'journey', 'surf', 'shipment', 'measure', 'devour', 'cutlery', 'catch', 'drive', 'cooling', 'sail', 'flutter', 'moo', 'descend', 'commute', 'score', 'indulgence', 'cutting', 'containment', 'communication', 'transportation', 'glide', 'slice', 'drying', 'tote', 'nurture', 'breakfast', 'cut', 'throw', 'brush', 'competition', 'signal', 'carry', 'mobility', 'dine', 'conformity', 'Thanksgiving', 'comfort', 'call', 'soar', 'pause', 'input', 'hygiene', 'click', 'health', 'entertainment', 'halt', 'crunch', 'softness', 'control', 'loyalty', 'formality', 'individuality', 'gallop', 'protection', 'gathering', 'pattern', 'walk', 'productivity', 'purr', 'sip', 'decoration', 'bite', 'accessory', 'reflection', 'rinse', 'uncork', 'skate', 'grace', 'support', 'scoop', 'tick', 'flight', 'type', 'read', 'bake', 'navigation', 'poke', 'descent', 'voyage', 'heating', 'thrill', 'consume', 'fly', 'hug', 'knowledge', 'shield', 'transit', 'solitude', 'heat', 'fasten', 'celebration', 'hit', 'flush', 'adventure', 'peel', 'song', 'elegance', 'recreation', 'roar', 'trumpet', 'container', 'aroma', 'childhood', 'measurement', 'sanitation', 'vibration', 'dry', 'growth', 'safety', 'swing', 'crave', 'ride', 'sharpness', 'stride', 'graze', 'excitement', 'sit', 'indulge', 'acidity', 'prong', 'chop', 'munch', 'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train', 'truck', 'boat', 'traffic light', 'fire hydrant', 'stop sign', 'parking meter', 'bench', 'bird', 'cat', 'dog', 'horse', 'sheep', 'cow', 'elephant', 'bear', 'zebra', 'giraffe', 'backpack', 'umbrella', 'handbag', 'tie', 'suitcase', 'frisbee', 'skis', 'snowboard', 'sports ball', 'kite', 'baseball bat', 'baseball glove', 'skateboard', 'surfboard', 'tennis racket', 'bottle', 'wine glass', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'banana', 'apple', 'sandwich', 'orange', 'broccoli', 'carrot', 'hot dog', 'pizza', 'donut', 'cake', 'chair', 'couch', 'potted plant', 'bed', 'dining table', 'toilet', 'tv', 'laptop', 'mouse', 'remote', 'keyboard', 'cell phone', 'microwave', 'oven', 'toaster', 'sink', 'refrigerator', 'book', 'clock', 'vase', 'scissors', 'teddy bear', 'hair drier', 'toothbrush', '#', '$', 'US$', 'C$', \"''\", ',', 'Wa', '.', '?', '!', '--', ';', ':', '...', '-', 'and', 'or', 'But', 'but', 'million', 'billion', 'one', 'two', '10', 'the', 'a', 'The', 'an', 'this', 'there', 'There', 'Perestroika', 'besuboru', 'de', 'etc.', 'of', 'for', 'on', 'new', 'other', 'last', 'many', 'higher', 'lower', 'largest', 'least', 'latest', 'best', '1', '2', '3', '4', '5', 'will', 'would', 'could', 'can', 'may', '%', 'company', 'year', 'market', 'trading', 'Mr.', 'U.S.', 'New', 'Corp.', 'York', 'Containers', 'Securities', 'Industries', 'Materials', 'Soviets', 'years', 'shares', 'prices', 'cents', 'funds', 'all', 'such', 'half', 'Such', 'All', \"'\", 'it', 'he', 'they', 'I', 'It', 'its', 'their', 'his', 'her', 'our', \"n't\", 'also', 'not', 'only', 'even', 'more', 'earlier', 'less', 'better', 'longer', 'most', 'Most', 'up', 'out', 'off', 'in', 'down', '&', 'to', 'To', 'TO', 'OK', 'Oh', 'no', 'be', 'make', 'buy', 'take', 'said', 'was', 'were', 'had', 'did', 'including', 'according', 'being', 'growing', 'trying', 'been', 'expected', 'made', 'compared', 'based', 'are', 'have', 'say', 'do', \"'re\", 'is', 'has', 'says', \"'s\", 'does', 'which', 'that', 'That', 'THAT', 'who', 'what', 'What', 'whom', 'Who', 'whose', 'when', 'where', 'how', 'When', 'why', '``', '`']"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1468,
+    "completion_tokens": 1303,
+    "total_tokens": 2771
+  }
+}{
+  "id": "chatcmpl-8Kq6vQ4FFJZiSDZ0aNMguL94WgEoq",
+  "object": "chat.completion",
+  "created": 1699977565,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.8, 0.0, 1.0, 1.0, 0.0, -1.0, 0.9, -1.0, 0.6, 0.6, 1.0, -0.5, 0.5, -0.7, 0.9, 0.9, 0.8, 0.8, 0.0, 0.6, 0.9, -0.3, 0.9, 1.0, 0.0, 0.8, 0.7, 0.3, 0.7, 0.9, 0.6, -0.6, 0.0, -0.2, 0.5, 0.5, 0.8, 0.8, 0.7, -0.2, 1.0, -0.4, 0.9, 1.0, 0.8, -0.6, 0.5, 1.0, 0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 346,
+    "completion_tokens": 250,
+    "total_tokens": 596
+  }
+}{
+  "id": "chatcmpl-8KrMY9p1PUqYwxb9JAdGSCHIUHV9J",
+  "object": "chat.completion",
+  "created": 1699982378,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0.7, 0.3, 0.8, 0.9, 0, 0, 0.8, 0, 0.8, 0.8, 0.8, 0, 0.5, 0, 0.7, 0.9, 0.7, 0.9, 0.7, 0.4, 1, 0.1, 0.9, 0.9, 0.2, 0.9, 0.7, 0.6, 0.9, 0.8, 0.4, 0.1, 0.5, 0, 0.5, 0.7, 0.9, 0.6, -0.2, 1, 0.3, 0, 0.1, 0.9, 0.9, 0, 0.9, 0.1, 0.9, 0.7]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 348,
+    "completion_tokens": 233,
+    "total_tokens": 581
+  }
+}{
+  "id": "chatcmpl-8KrMy7mf9kQ50VPn4ptVFTpOXVQ9u",
+  "object": "chat.completion",
+  "created": 1699982404,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, -0.9, -0.3, -0.9, 1.0, 1.0, 1.0, 0.6, -0.9, 1.0, -0.9, -0.9, 1.0, 1.0, -0.9, 0.6, -0.9, -0.9, -0.9, 1.0, -0.9, -0.2, -0.9, 1.0, -0.7, 1.0, 1.0, -0.6, 1.0, -0.9, -0.4, 1.0, 1.0, 1.0, -0.8, -0.9, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, -0.1, 1.0, 0.3, 0.5, -0.3, 0.5, 1.0, 1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 346,
+    "completion_tokens": 250,
+    "total_tokens": 596
+  }
+}{
+  "id": "chatcmpl-8KrNPWZBBaijHKUBMZ0TAOvpuig2C",
+  "object": "chat.completion",
+  "created": 1699982431,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.9, -0.8, -0.5, 0.7, -0.8, -0.6, 0.8, -0.6, 0.9, 0.7, 0.2, 0.8, -0.7, -0.8, -0.4, 0.5, -0.4, -0.5, -0.7, -0.9, -0.5, 0.1, -0.1, 0.7, -0.3, -0.6, 0.7, 0.9, 0.9, -0.7, 0.7, 0.6, -0.3, 0.9, 0.7, -0.6, -0.4, 0.9, 0.7, -1.0, -0.6, -0.6, -0.6, -0.6, -0.5, -0.5, -0.5, -0.5, -0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 353,
+    "completion_tokens": 245,
+    "total_tokens": 598
+  }
+}{
+  "id": "chatcmpl-8KrSGZFmAfD5uEmtCkmb8hHxxB0Mf",
+  "object": "chat.completion",
+  "created": 1699982732,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.2, 1.0, 0.2, 1.0, 1.0, -0.5, -0.8, 1.0, -0.8, 1.0, 0.7, 0.9, -0.6, 0.2, -0.8, 1.0, 1.0, 0.5, 1.0, -0.4, 0.7, 1.0, -0.2, 1.0, 1.0, -0.3, 1.0, 1.0, 0.4, 1.0, 0.8, 0.9, -0.7, -0.3, -0.5, 0.2, 0.4, 1.0, 0.9, -0.7, 0.3, 0.6, -0.9, 1.0, 1.0, 0.8, -0.7, 0.6, 1.0, 0.1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 349,
+    "completion_tokens": 250,
+    "total_tokens": 599
+  }
+}{
+  "id": "chatcmpl-8KrSd7sxVMfZEbC8AarZMDOHvtToj",
+  "object": "chat.completion",
+  "created": 1699982755,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, -0.8, -0.7, -0.5, 1.0, 0.9, 1.0, -0.3, -0.9, 0.8, -0.9, -0.7, 0.8, 0.8, -0.8, 0.2, -0.9, -0.8, -0.9, 1.0, -0.6, -0.7, -0.4, 1.0, -0.4, 0.8, 0.9, -0.5, 1.0, -0.7, -0.2, 0.7, 0.9, 1.0, -0.3, -0.1, 0.8, 0.1, 0.9, 0.8, 1.0, 1.0, -0.1, 0.7, 0.9, 0.7, -0.4, 0.3, 1.0, 1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 347,
+    "completion_tokens": 250,
+    "total_tokens": 597
+  }
+}{
+  "id": "chatcmpl-8KrT063SOtr2cH3NQ3DRK39atO2Zx",
+  "object": "chat.completion",
+  "created": 1699982778,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1, -1, -1, 0.8, -1, -1, 1, 0, 1, 0.9, 0.7, 1, -1, -1, 0.2, 0.8, -1, -1, -1, -1, -1, -0.7, -0.3, 0.3, -0.4, -0.8, 0.6, 0.8, 1, -1, 0.2, 0.7, -0.5, 1, 0.8, -1, -0.7, 1, 0.8, -1, -0.8, -0.8, -0.8, -0.7, -0.8, -0.8, -0.8, -0.8, -1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 354,
+    "completion_tokens": 202,
+    "total_tokens": 556
+  }
+}{
+  "id": "chatcmpl-8KrTNBbtYWLGdtB6xnKcV7du5wYAG",
+  "object": "chat.completion",
+  "created": 1699982801,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-0.8, -0.7, -0.6, -0.9, -0.9, -0.9, -0.9, -0.9, -0.9, -0.8, -0.8, -0.9, -0.9, -0.6, -0.5, -0.6, -0.5, -0.6, 0.2, 0.4, 0.5, 0.6, 0.1, 0.5, 0.6, 0.7, 0.7, 0.6, -0.4, -0.5, -0.5, -0.2, -0.2, -0.1, -0.5, -0.8, -0.8, -0.7, -0.9, -0.7, -0.8, -0.2, -0.2, -0.1, -0.2, -0.9, -0.9, -0.8, -1, -0.9]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 359,
+    "completion_tokens": 248,
+    "total_tokens": 607
+  }
+}{
+  "id": "chatcmpl-8KrTgRnWklHzn2Ec9PNKSQssGpvpP",
+  "object": "chat.completion",
+  "created": 1699982820,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -0.5, -1, -1, 0.6, -1, 0.8, 0.9, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0.2, 0.2, -1, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 320,
+    "completion_tokens": 165,
+    "total_tokens": 485
+  }
+}{
+  "id": "chatcmpl-8KrTtVRjZcZ4mhPwjtSoTq48Jknf4",
+  "object": "chat.completion",
+  "created": 1699982833,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0, -1, -1, -1, 0.5, 0.5, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0.5, -1, -1, -1, -1, -1, 0.8, 0.8, 0.8, 0.8, 0.8, -1, -1, -1, -1, 0.6, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0.3, 0, -1, -1, -1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 330,
+    "completion_tokens": 173,
+    "total_tokens": 503
+  }
+}{
+  "id": "chatcmpl-8KrU8w0XyGgRigDoYGrtVEM7E1BuZ",
+  "object": "chat.completion",
+  "created": 1699982848,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.2, 0.1, -0.2, 0.0, 0.0, 0.0, -0.1, 0.0, -0.1, -0.1, 0.0, 0.0, 0.0, 0.7, 0.7, 0.0, 0.8, 0.0, 0.1, 0.1, 0.1, 0.0, 0.0, -0.1, 0.9, 1.0, 1.0, 1.0, -0.1, -0.1, -0.1, -0.1, -0.1, 0.0, 0.0, 1.0, 1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 319,
+    "completion_tokens": 250,
+    "total_tokens": 569
+  }
+}{
+  "id": "chatcmpl-8KrUXow5kMmMzr2q2WTZd2f2xe9A4",
+  "object": "chat.completion",
+  "created": 1699982873,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, 0.7, 0.6, 1.0, 0.7, 0.0, 0.3, 0.8, 1.0, 1.0, 0.3, 0.3, 0.8, 1.0, 0.2, 1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 269,
+    "completion_tokens": 165,
+    "total_tokens": 434
+  }
+}{
+  "id": "chatcmpl-8KrfH6yNid8UeSz69xouqBItVsCSH",
+  "object": "chat.completion",
+  "created": 1699983539,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.1, 0.8, 0.2, 0.9, 0.9, 0.2, -0.2, 0.9, -0.5, 0.7, 0.8, 0.9, 0.4, 0.8, -0.3, 0.9, 0.9, 0.8, 0.9, 0.4, 0.7, 0.9, 0.2, 0.9, 0.9, 0.5, 0.9, 0.8, 0.1, 0.9, 0.9, 0.7, -0.1, 0.7, 0.4, 0.3, 0.8, 0.9, 0.9, 0.7, 0.9, 0.3, 0.2, 0.9, 0.9, 0.8, 0.6, 0.3, 0.9, 0.7]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 349,
+    "completion_tokens": 250,
+    "total_tokens": 599
+  }
+}{
+  "id": "chatcmpl-8KrfesqKTbaVaeNrGX0vlRMfCsyKr",
+  "object": "chat.completion",
+  "created": 1699983562,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Here is the score list responding to the word list:\n\n[1.0, -0.8, -0.2, -0.8, 1.0, 1.0, 1.0, -0.1, -0.6, 0.9, -0.8, -0.9, 1.0, 1.0, -0.7, 0.2, -0.9, -0.8, -0.9, 1.0, -0.7, -0.2, -0.4, 1.0, -0.1, 1.0, 1.0, -0.6, 1.0, -0.8, -0.2, 1.0, 1.0, 1.0, -0.6, -0.7, 1.0, 1.0, 0.6, 0.9, 1.0, 1.0, -0.2, 1.0, 0.0, 0.7, -0.5, 0.7, 1.0, 1.0] \n\nNote that words that are clear verbs or actions like 'dine', 'call', 'soar', 'pause' etc., are scored positively, whereas words that are mainly nouns or adjectives expressing a state condition or property got negative scores. Neutral words, e.g., those can be both noun and verb, received scores around 0."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 347,
+    "completion_tokens": 331,
+    "total_tokens": 678
+  }
+}{
+  "id": "chatcmpl-8KrjfIDpIVX7bYHTjAvXsCqAt4Utl",
+  "object": "chat.completion",
+  "created": 1699983811,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.2, 0.8, -0.3, 0.9, 0.8, -0.4, -0.7, 0.8, -0.6, 0.5, 0.7, 0.8, -0.3, 0.6, -0.5, 0.8, 0.9, 0.8, 0.7, 0.6, 0.7, 0.9, -0.5, 0.8, 0.9, -0.1, 0.7, 0.6, 0.2, 0.8, 0.7, 0.8, -0.4, 0.3, -0.4, 0.1, 0.8, 0.7, 0.9, -0.3, 0.8, 0.8, -0.8, 0.8, 0.8, 0.6, 0.1, 0.5, 0.9, 0.6]\n  \nThis output corresponds to the words with their degree of being 'Verb or Action Related'. For instance, 'watch', 'haul', 'extinguish', 'rest', 'hold', 'drink', 'eat', 'journey', 'surf' and so on are scored positively as they are verbs or denote some sort of action. Conversely, words like 'companion', 'lounge', 'combination', 'majesty' or 'nutrient' are scored negatively as these are less likely to denote a verb or action. Words like 'chill' or 'score' might be interpreted as both noun and verb depending on context, hence have moderate scores."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 349,
+    "completion_tokens": 384,
+    "total_tokens": 733
+  }
+}{
+  "id": "chatcmpl-8KrkDmwi8Bd5KzmShczzYizv0jAKj",
+  "object": "chat.completion",
+  "created": 1699983845,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-0.4, 0.7, 0.3, 0.7, 0.8, -0.3, -0.9, 0.8, -0.8, 0.6, 0.6, 0.9, -0.2, 0.3, -0.5, 0.9, 0.9, 0.8, 0.9, 0.1, 0.6, 0.9, -0.3, 0.9, 0.9, -0.2, 0.7, 0.6, -0.4, 0.7, 0.8, 0.6, -0.3, 0.3, -0.5, 0.1, 0.6, 0.8, 0.7, 0.3, 0.7, 0.2, -0.6, 0.9, 0.9, 0.6, 0.3, 0.5, 0.8, 0.6]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 349,
+    "completion_tokens": 250,
+    "total_tokens": 599
+  }
+}{
+  "id": "chatcmpl-8KroSPRyjjpAE7wRng5C5PTGV4fWP",
+  "object": "chat.completion",
+  "created": 1699984108,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.7, -0.3, 0.6, 0.8, -0.2, -0.9, 0.9, -0.9, 0.7, 0.6, 0.8, -0.1, 0.7, 0.0, 0.7, 0.8, 0.8, 0.8, 0.5, 0.7, 1.0, -0.3, 0.9, 0.9, -0.3, 0.8, 0.7, 0.3, 1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 276,
+    "completion_tokens": 150,
+    "total_tokens": 426
+  }
+}{
+  "id": "chatcmpl-8KrojdZKx94yiBGoUV6yGkic3e7A7",
+  "object": "chat.completion",
+  "created": 1699984125,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.9, 0.8, -0.5, 0.8, -0.4, 0.2, 0.6, 0.9, 0.9, 0.6, 0.8, 0.4, 0.1, 1.0, 1.0, 0.9, 0.2, 0.6, 0.9, 0.1, 0.4, -0.8, -0.9, -0.4, 0.8, 0.9, 0.7, 0.3, 0.1, 0.6]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 277,
+    "completion_tokens": 150,
+    "total_tokens": 427
+  }
+}{
+  "id": "chatcmpl-8KrouYQQw8ZZSOME6NmbwcGKmv6IQ",
+  "object": "chat.completion",
+  "created": 1699984136,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.1, -0.2, 0.7, 0.7, -0.6, 0.2, -0.3, -0.4, -0.3, 1.0, -0.2, -0.1, -0.3, 1.0, 0.2, 0.7, 1.0, -0.5, 1.0, -0.6, -0.1, 1.0, 1.0, 1.0, 0.1, 0.2, 1.0, 0.6, 0.8, 1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 276,
+    "completion_tokens": 150,
+    "total_tokens": 426
+  }
+}{
+  "id": "chatcmpl-8KrpAAqG4qIUjX5vlER5bVfHWbd99",
+  "object": "chat.completion",
+  "created": 1699984152,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, 1.0, -0.6, 1.0, -0.8, -0.5, 0.2, -0.4, 1.0, 1.0, 1.0, -0.9, -0.6, -0.4, -1.0, 0.2, 1.0, -0.8, 1.0, 0.6, -0.3, 1.0, -0.9, -1.0, -0.7, 0.6, -0.4, -1.0, -1.0, -1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 279,
+    "completion_tokens": 150,
+    "total_tokens": 429
+  }
+}{
+  "id": "chatcmpl-8KrpRCp5iKyRhWrEX09g9YFqVpfzR",
+  "object": "chat.completion",
+  "created": 1699984169,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-0.2, -0.4, -0.1, 0.5, -0.3, -0.4, 0.8, 0.7, 0.95, -0.5, 0.9, 0.85, -0.25, 0.95, 0.7, -0.2, 0.6, 0.95, 0.8, -0.8, -0.2, -0.1, -0.1, -0.15, -0.17, -0.12, -0.02, -0.02, -0.85, -0.95]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 278,
+    "completion_tokens": 150,
+    "total_tokens": 428
+  }
+}{
+  "id": "chatcmpl-8KrpiLensZCmKs7DG62zgqu5O76hM",
+  "object": "chat.completion",
+  "created": 1699984186,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0.2, 0.5, 0.5, 0.3, 0.3, 0.4, 0.4, 0.6, 0.6, 0.5, -0.5, -0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 287,
+    "completion_tokens": 114,
+    "total_tokens": 401
+  }
+}{
+  "id": "chatcmpl-8KrprP6eMKTjDM2L6bzyOANpZ4TcZ",
+  "object": "chat.completion",
+  "created": 1699984195,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, -0.5, 0.2, -0.5, 0.2, -0.5, -0.5, -0.5, -0.5] \n\nThis scoring is based on my understanding of these words mostly being nouns rather than verbs or action words. A few exceptions are 'mouse' and 'keyboard', which are still primarily nouns, but they also have a verb or action-related connotation within a technology context (i.e. a mouse is 'used' in interaction with a computer, typing on a keyboard represents action), therefore they are scored slightly higher towards the positive end of the scale."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 275,
+    "completion_tokens": 240,
+    "total_tokens": 515
+  }
+}{
+  "id": "chatcmpl-8KrqC5DsnjrywvkWJADF6sJ0Elns3",
+  "object": "chat.completion",
+  "created": 1699984216,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 275,
+    "completion_tokens": 90,
+    "total_tokens": 365
+  }
+}{
+  "id": "chatcmpl-8KrqPTTNwGEOreXfQyVzKHFfp9rJH",
+  "object": "chat.completion",
+  "created": 1699984229,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, -1.0, -0.5, -1.0, -1.0, 0.8, -0.8, 1.0, 0.8, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 0.0, 0.0, -0.2, -0.2, -1.0, -1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 255,
+    "completion_tokens": 150,
+    "total_tokens": 405
+  }
+}{
+  "id": "chatcmpl-8Krqg5aabfheWjt0Q548dhXTwmyWS",
+  "object": "chat.completion",
+  "created": 1699984246,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 263,
+    "completion_tokens": 90,
+    "total_tokens": 353
+  }
+}{
+  "id": "chatcmpl-8KrqqCIDULDRkRyFQPnSI4eVz9oAb",
+  "object": "chat.completion",
+  "created": 1699984256,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0, 0.9, 0.9, 0.9, 0.9, 0.9, 0, 0, 0, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.75, 0.75, 0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 265,
+    "completion_tokens": 106,
+    "total_tokens": 371
+  }
+}{
+  "id": "chatcmpl-8Krr3pi7sbQJPpmXCW69c53z2aypU",
+  "object": "chat.completion",
+  "created": 1699984269,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8, 0.0, 0.0, 0.0, 0.6, 0.7, 0.7, 0.6, 0.7]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 259,
+    "completion_tokens": 150,
+    "total_tokens": 409
+  }
+}{
+  "id": "chatcmpl-8KrrIxwCRLllu3xn58IIzggVs5ql2",
+  "object": "chat.completion",
+  "created": 1699984284,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, 0.3, 0.3, 0.3, -1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.6, 0.6, 1, 1, 1, 1, 1, 1, 0.6, 0.6, 1, 1, 1, 1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 260,
+    "completion_tokens": 104,
+    "total_tokens": 364
+  }
+}{
+  "id": "chatcmpl-8KrrQqQNyyOmIbvFEnFhhsHJs8xaP",
+  "object": "chat.completion",
+  "created": 1699984292,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.8, 0.7, 0.8, 0.9, 0.7, 0.9, -0.2, -0.2, -0.2, -0.2, -0.2, -0.1, -0.1, -0.2, -0.2, -0.3, -0.1, -0.1, 0.3, -0.1, -0.1, -1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 239,
+    "completion_tokens": 111,
+    "total_tokens": 350
+  }
+}
+
+score_list: [0.0, 0.7, -0.3, 0.6, 0.8, -0.2, -0.9, 0.9, -0.9, 0.7, 0.6, 0.8, -0.1, 0.7, 0.0, 0.7, 0.8, 0.8, 0.8, 0.5, 0.7, 1.0, -0.3, 0.9, 0.9, -0.3, 0.8, 0.7, 0.3, 1.0, 0.9, 0.8, -0.5, 0.8, -0.4, 0.2, 0.6, 0.9, 0.9, 0.6, 0.8, 0.4, 0.1, 1.0, 1.0, 0.9, 0.2, 0.6, 0.9, 0.1, 0.4, -0.8, -0.9, -0.4, 0.8, 0.9, 0.7, 0.3, 0.1, 0.6, 0.1, -0.2, 0.7, 0.7, -0.6, 0.2, -0.3, -0.4, -0.3, 1.0, -0.2, -0.1, -0.3, 1.0, 0.2, 0.7, 1.0, -0.5, 1.0, -0.6, -0.1, 1.0, 1.0, 1.0, 0.1, 0.2, 1.0, 0.6, 0.8, 1.0, 1.0, 1.0, -0.6, 1.0, -0.8, -0.5, 0.2, -0.4, 1.0, 1.0, 1.0, -0.9, -0.6, -0.4, -1.0, 0.2, 1.0, -0.8, 1.0, 0.6, -0.3, 1.0, -0.9, -1.0, -0.7, 0.6, -0.4, -1.0, -1.0, -1.0, -0.2, -0.4, -0.1, 0.5, -0.3, -0.4, 0.8, 0.7, 0.95, -0.5, 0.9, 0.85, -0.25, 0.95, 0.7, -0.2, 0.6, 0.95, 0.8, -0.8, -0.2, -0.1, -0.1, -0.15, -0.17, -0.12, -0.02, -0.02, -0.85, -0.95, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0.2, 0.5, 0.5, 0.3, 0.3, 0.4, 0.4, 0.6, 0.6, 0.5, -0.5, -0.5, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1.0, -1.0, -0.5, -1.0, -1.0, 0.8, -0.8, 1.0, 0.8, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 0.0, 0.0, -0.2, -0.2, -1.0, -1.0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, 0, 0.9, 0.9, 0.9, 0.9, 0.9, 0, 0, 0, 0.7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.75, 0.75, 0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8, 0.0, 0.0, 0.0, 0.6, 0.7, 0.7, 0.6, 0.7, -1, 0.3, 0.3, 0.3, -1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.6, 0.6, 1, 1, 1, 1, 1, 1, 0.6, 0.6, 1, 1, 1, 1, 0.8, 0.7, 0.8, 0.9, 0.7, 0.9, -0.2, -0.2, -0.2, -0.2, -0.2, -0.1, -0.1, -0.2, -0.2, -0.3, -0.1, -0.1, 0.3, -0.1, -0.1, -1, -1]
+diff_list: [-0.128, 0.491, -1.059, 0.19899999999999995, 0.22000000000000008, -0.305, -1.5150000000000001, 0.853, -0.899, 0.614, 0.488, 0.621, -0.615, 0.26699999999999996, -0.377, 0.25599999999999995, 0.47200000000000003, 0.6120000000000001, 0.268, 0.255, 0.36299999999999993, 0.813, -0.837, 0.47400000000000003, 0.666, -0.6519999999999999, 0.08000000000000007, 0.86, 0.502, 0.8260000000000001, 0.648, 0.518, -0.696, 0.5070000000000001, -0.625, -0.16799999999999998, 0.307, 0.9590000000000001, 0.6880000000000001, 0.25699999999999995, 0.8510000000000001, 0.08800000000000002, 0.018000000000000002, 0.636, 0.45499999999999996, 0.385, 0.326, 0.512, 0.263, -0.063, -0.08999999999999997, -0.913, -0.595, 0.024999999999999967, 0.519, 1.096, 0.23899999999999993, 0.786, -0.10699999999999998, 0.407, -0.223, -0.17900000000000002, 0.26099999999999995, 0.703, -0.37, 0.495, -0.619, -0.07900000000000001, -0.174, 0.8220000000000001, -0.43000000000000005, -0.255, -0.9339999999999999, 0.46099999999999997, 0.277, 1.032, 1.054, -0.721, 0.43200000000000005, -0.521, -0.519, 1.183, 1.26, 0.471, -0.5850000000000001, 0.05300000000000002, 0.718, 0.11699999999999999, 0.751, 0.766, 0.8069999999999999, 0.546, -0.746, 1.31, -0.794, -0.617, -0.03799999999999998, -0.624, 0.399, 0.45599999999999996, 0.954, -1.228, -1.041, -0.918, -0.956, 0.354, 1.003, -0.6100000000000001, 0.7130000000000001, 0.611, -0.21899999999999997, 1.052, -0.8, -1.081, -1.029, -0.06400000000000006, -1.024, -1.218, -1.2770000000000001, -0.646, -0.541, -0.988, -0.43200000000000005, 0.2, -0.27399999999999997, -0.42000000000000004, 0.241, 0.5419999999999999, 0.573, -0.16799999999999998, 0.583, 0.8029999999999999, -0.346, 0.665, 0.489, 0.461, 0.647, 0.709, 1.343, -0.42500000000000004, -1.198, -0.478, -1.07, -0.33699999999999997, -0.665, -0.897, -0.5700000000000001, -0.636, -1.375, -1.2, -1.357, -1.35, -1.18, -1.21, -0.897, -1.343, -1.517, -1.607, -1.417, -1.228, -1.2610000000000001, -1.446, -1.219, -1.388, -1.349, -0.951, -1.259, -1.213, 0.37, 0.406, 0.11199999999999999, 0.20199999999999999, -0.343, 0.17, 0.315, -0.031000000000000028, -0.137, 0.416, -1.0659999999999998, -0.9259999999999999, -0.6699999999999999, -1.303, -1.322, -1.088, -1.006, -1.159, -0.893, -1.374, -0.749, -0.8180000000000001, -0.754, -0.968, -1.3900000000000001, -0.518, -1.3820000000000001, -0.8220000000000001, -1.305, -1.314, -1.415, -1.085, -1.307, -1.2469999999999999, -0.898, -0.81, -0.808, -0.7030000000000001, -1.72, -1.104, -1.266, -0.948, 0.8069999999999999, -1.274, -0.766, -1.744, -1.015, 0.30500000000000005, -1.399, 0.812, 0.20700000000000007, -0.74, -1.165, -1.288, -1.153, -1.825, -0.787, -1.6059999999999999, -1.075, -0.873, -1.229, -1.307, -0.32699999999999996, -0.45399999999999996, -1.49, -1.346, 0.513, -0.302, -0.20900000000000002, -0.20900000000000002, -1.263, -1.514, -0.632, -0.776, -1.06, -0.46499999999999997, -0.6579999999999999, -0.46499999999999997, -0.625, -0.5760000000000001, -0.624, -0.624, -1.088, -0.254, -0.55, -1.037, -0.37, -1.183, -0.881, -0.823, -0.5760000000000001, -0.937, -0.952, -0.731, -0.6950000000000001, -0.45099999999999996, -0.9319999999999999, -1.099, -0.10599999999999998, -0.6890000000000001, -1.006, -0.91, -0.268, -0.246, 0.587, 0.808, 0.5920000000000001, 0.515, 1.522, 0.345, 0.044, 0.228, 0.524, -0.419, -0.004, 0.299, 0.177, 0.078, 0.199, -0.195, -0.671, -0.36, -0.236, 0.204, -0.106, -0.766, -0.139, -0.135, 0.189, 1.0979999999999999, 1.1520000000000001, -0.543, 0.402, 0.348, -0.723, 0.111, -0.086, -0.142, -0.297, 0.111, 0.598, 0.074, -0.024, -0.02, -0.282, -0.9049999999999999, 0.451, -0.08, 0.454, 0.524, -0.176, 0.319, -0.045, 0.792, -0.452, 0.512, 0.512, 0.738, 0.8119999999999999, 0.622, 1.466, 1.15, -0.918, 0.497, 0.497, 0.497, -0.863, -0.929, -0.6639999999999999, 0.41200000000000003, 0.6970000000000001, 0.614, 1.26, 0.789, 1.108, 0.802, 0.7170000000000001, 0.661, 0.703, 0.20799999999999996, 1.056, 1.19, 0.94, 0.69, 0.961, 0.931, 0.44099999999999995, 0.21999999999999997, 1.078, 0.836, 0.753, 0.901, 0.28500000000000003, 0.953, 0.8300000000000001, 0.641, 0.59, 0.863, 0.0069999999999999785, 0.203, 0.203, 0.203, 0.321, -0.038000000000000006, -0.038000000000000006, 0.319, 0.321, 0.135, 0.868, 0.386, 0.917, 0.868, 0.13799999999999998, -1.588, -1.52]
+sum of diff: -63.347999999999935
+mean of diff: -0.16539947780678835
+{
+  "id": "chatcmpl-8Ks2Il9E7SN7Cu3J5psQKozlBSpRW",
+  "object": "chat.completion",
+  "created": 1699984966,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0.8, -0.1, 0.9, 0.9, 0, 0, 0.9, 0, 0.8, 0.9, 0.9, -0.1, 0.4, 0, 0.9, 0.9, 0.9, 1, 0, 0.5, 1, -0.3, 1, 1, -0.1, 1, 0.7, 0, 1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 276,
+    "completion_tokens": 124,
+    "total_tokens": 400
+  }
+}{
+  "id": "chatcmpl-8Ks2ueblksVNpVrON1KEniq1kYXAf",
+  "object": "chat.completion",
+  "created": 1699985004,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0.65, -0.1, 0.7, 0.8, -0.3, -0.5, 0.8, -0.6, 0.4, 0.6, 0.75, -0.15, 0.65, -0.35, 0.7, 0.9, 0.7, 0.8, -0.2, 0.85, 0.9, -0.6, 0.75, 0.95, -0.6, 0.9, 0.8, -0.45, 0.85]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 276,
+    "completion_tokens": 148,
+    "total_tokens": 424
+  }
+}{
+  "id": "chatcmpl-8Ks3HARXVSfsQAcSIPTifrJEOoKcv",
+  "object": "chat.completion",
+  "created": 1699985027,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, 1.0, -0.5, 1.0, -0.5, 0.2, 0.5, 1.0, 1.0, 1.0, 1.0, 0.8, 0.3, 1.0, 1.0, 1.0, -0.2, 0.5, 1.0, 0.2, 0.8, -0.8, -0.8, -0.5, 1.0, 1.0, 0.9, 0.3, 0, 1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 277,
+    "completion_tokens": 148,
+    "total_tokens": 425
+  }
+}{
+  "id": "chatcmpl-8Ks3f405WVnbGHUBgPbNlMSOBg1OG",
+  "object": "chat.completion",
+  "created": 1699985051,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, -1, 0.9, 0.8, -1, 0.2, -1, -1, -1, 1, -0.5, -0.2, -1, 1, -0.5, 0.9, 1, -0.9, 1, -0.9, -1, 1, 1, 1, -0.9, -0.3, 1, 0.8, 1, 1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 276,
+    "completion_tokens": 114,
+    "total_tokens": 390
+  }
+}{
+  "id": "chatcmpl-8Ks3wOqaN8s4JXJ1O0rEmDeeDAVbw",
+  "object": "chat.completion",
+  "created": 1699985068,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, 1.0, -0.1, 1.0, -0.2, -0.1, 1.0, -0.1, 1.0, 1.0, 1.0, -1.0, -0.7, 0.2, -1.0, 0.7, 1.0, -0.3, 1.0, 1.0, -0.1, 1.0, -0.8, -1.0, -0.8, 0.2, -0.4, -1.0, -1.0, -1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 279,
+    "completion_tokens": 150,
+    "total_tokens": 429
+  }
+}{
+  "id": "chatcmpl-8Ks4KvHwx0f67nm3CT2JeDb3CHQte",
+  "object": "chat.completion",
+  "created": 1699985092,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, -0.5, 0, -0.3, -0.3, -0.7, 0.8, 0.9, 1, -0.3, 0.8, 0.9, -0.5, 1, 0.9, -0.4, -0.2, 1, 1, -1, -0.6, -0.7, -0.6, -0.8, -0.7, -0.7, -0.8, -0.6, -0.9, -0.9]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 278,
+    "completion_tokens": 136,
+    "total_tokens": 414
+  }
+}{
+  "id": "chatcmpl-8Ks4hDNS1QHXUh7AyiEvvnMiMQYCz",
+  "object": "chat.completion",
+  "created": 1699985115,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -0.2, -0.2, -0.2, -0.3, -0.2, 0.6, 0.7, 0.7, 0.5, 0.6, 0.8, 0.7, 0.7, 0.8, 0.8, -0.4, -0.4]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 287,
+    "completion_tokens": 124,
+    "total_tokens": 411
+  }
+}{
+  "id": "chatcmpl-8Ks52Y11XBcwN5skP501RSIhJjENt",
+  "object": "chat.completion",
+  "created": 1699985136,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Here is the scoring for each word in the provided list according to the criteria - 'Verb or Action Related':\n\n[-0.9 , -0.9, -0.9, -0.8, -0.9, -0.9, -0.9, -0.9, -0.9, -0.9, -0.9, -0.9, -0.9, -0.9, -0.9, -0.9, -0.9, -0.7, -0.9, -0.9, -0.9, -0.9, -0.1, 0.1, 0.1, 0.1, 0.2, -0.6, -0.6, -0.6]\n\nThe negatives represent an opposite relation to the given criteria. These are all items and not verbs or actions. A few items towards the end may somehow be related to a verb or action; hence, they have slightly higher scores but are still very much on the negative side."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 275,
+    "completion_tokens": 226,
+    "total_tokens": 501
+  }
+}{
+  "id": "chatcmpl-8Ks5OQQ44CIUVDb6nzrAYTJ5Kvjmp",
+  "object": "chat.completion",
+  "created": 1699985158,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1] \n\nThis score is assigned based on the listed items all being physical objects or nouns rather than actions or verbs. Thus, they are not highly correlated with the criteria 'Verb or Action Related'."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 275,
+    "completion_tokens": 128,
+    "total_tokens": 403
+  }
+}{
+  "id": "chatcmpl-8Ks5dBWMKHfaTAspTlAXQqGViY0V6",
+  "object": "chat.completion",
+  "created": 1699985173,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 275,
+    "completion_tokens": 90,
+    "total_tokens": 365
+  }
+}{
+  "id": "chatcmpl-8Ks5uUvPTadiqgy7azc1GSpH2VSEv",
+  "object": "chat.completion",
+  "created": 1699985190,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, -1.0, -1.0, -1.0, -1.0, 0.5, -1.0, 0.5, 1.0, 0.0, 0.0, 0.0, 0.0, 0, 0.0, 0.0, 0.0, 0, 0, 0.0, 0.0, 0.0, 0.0, 0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0] \n\nThe verb or action-related words or items in the list are 'sink' (as in, to sink), 'scissors' (as in, to cut with scissors), 'hair drier' (as in, to dry hair), and 'toothbrush' (as in, to brush teeth). Most of the other things are either objects or punctuation marks, which do not perform actions."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 255,
+    "completion_tokens": 223,
+    "total_tokens": 478
+  }
+}{
+  "id": "chatcmpl-8Ks6HUk8BdN79HoxjwvHAPMV72bAw",
+  "object": "chat.completion",
+  "created": 1699985213,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1, -1, -0.2, -1, -1, 0.8, -0.5, 0.7, 0.5, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -0.4, -0.4, -0.4, -0.4, -1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 255,
+    "completion_tokens": 108,
+    "total_tokens": 363
+  }
+}{
+  "id": "chatcmpl-8Ks6XyKzQb8t0Dht2SQpqBqEMLzus",
+  "object": "chat.completion",
+  "created": 1699985229,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 263,
+    "completion_tokens": 90,
+    "total_tokens": 353
+  }
+}{
+  "id": "chatcmpl-8Ks6qWH7VmHa90zaE3iSR41d70PUw",
+  "object": "chat.completion",
+  "created": 1699985248,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[ -1, -1, 0.8, 0.8, 0.8, 0.9, 0.9, -1, -1, -1, -1, 0.7, -1, -1, -1, -1, -1, -1, 0.5, -1, -1, -1, -1, 0.1, 0.2, -1, 0.3, -1, -1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 265,
+    "completion_tokens": 111,
+    "total_tokens": 376
+  }
+}{
+  "id": "chatcmpl-8Ks76i4N5GocBWjvpNbMcvmKn3slQ",
+  "object": "chat.completion",
+  "created": 1699985264,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0.5, -1, -1, -1, -1, -1, -1, -1, 0.7, -1, -1, -1, 1, 1, 1, 1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 259,
+    "completion_tokens": 94,
+    "total_tokens": 353
+  }
+}{
+  "id": "chatcmpl-8Ks7OwfnT1riQC2ZrELZosQ0cXhPs",
+  "object": "chat.completion",
+  "created": 1699985282,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, 0.5, 0.5, 0.5, -1, -1, -1, 1, 1, 1, 1, 0.5, 0.8, 0.8, 0.8, 1, 0.4, 0.4, 1, 1, 1, 0.8, 0.7, 1, 0.3, 0.3, 0.8, 1, 0.5, 1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 260,
+    "completion_tokens": 120,
+    "total_tokens": 380
+  }
+}{
+  "id": "chatcmpl-8Ks7iIeUmOSC6Y9RuoBpTHNBzb8wj",
+  "object": "chat.completion",
+  "created": 1699985302,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.1, 0.1, 0.3, 0.6, 0.1, 0.6, -0.3, -0.3, -0.3, -0.3, -0.3, 0.2, 0.2, -0.3, -0.3, -0.3, 0.2, 0.2, 0.4, 0.2, 0.2, -0.5, -0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 239,
+    "completion_tokens": 115,
+    "total_tokens": 354
+  }
+}
+score_list: [0, 0.65, -0.1, 0.7, 0.8, -0.3, -0.5, 0.8, -0.6, 0.4, 0.6, 0.75, -0.15, 0.65, -0.35, 0.7, 0.9, 0.7, 0.8, -0.2, 0.85, 0.9, -0.6, 0.75, 0.95, -0.6, 0.9, 0.8, -0.45, 0.85, 1.0, 1.0, -0.5, 1.0, -0.5, 0.2, 0.5, 1.0, 1.0, 1.0, 1.0, 0.8, 0.3, 1.0, 1.0, 1.0, -0.2, 0.5, 1.0, 0.2, 0.8, -0.8, -0.8, -0.5, 1.0, 1.0, 0.9, 0.3, 0, 1.0, -1, -1, 0.9, 0.8, -1, 0.2, -1, -1, -1, 1, -0.5, -0.2, -1, 1, -0.5, 0.9, 1, -0.9, 1, -0.9, -1, 1, 1, 1, -0.9, -0.3, 1, 0.8, 1, 1, 1.0, 1.0, -0.1, 1.0, -0.2, -0.1, 1.0, -0.1, 1.0, 1.0, 1.0, -1.0, -0.7, 0.2, -1.0, 0.7, 1.0, -0.3, 1.0, 1.0, -0.1, 1.0, -0.8, -1.0, -0.8, 0.2, -0.4, -1.0, -1.0, -1.0, 0, -0.5, 0, -0.3, -0.3, -0.7, 0.8, 0.9, 1, -0.3, 0.8, 0.9, -0.5, 1, 0.9, -0.4, -0.2, 1, 1, -1, -0.6, -0.7, -0.6, -0.8, -0.7, -0.7, -0.8, -0.6, -0.9, -0.9, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -0.2, -0.2, -0.2, -0.3, -0.2, 0.6, 0.7, 0.7, 0.5, 0.6, 0.8, 0.7, 0.7, 0.8, 0.8, -0.4, -0.4, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, -0.2, -1, -1, 0.8, -0.5, 0.7, 0.5, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -0.4, -0.4, -0.4, -0.4, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, 0.8, 0.8, 0.8, 0.9, 0.9, -1, -1, -1, -1, 0.7, -1, -1, -1, -1, -1, -1, 0.5, -1, -1, -1, -1, 0.1, 0.2, -1, 0.3, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0.5, -1, -1, -1, -1, -1, -1, -1, 0.7, -1, -1, -1, 1, 1, 1, 1, -1, -1, 0.5, 0.5, 0.5, -1, -1, -1, 1, 1, 1, 1, 0.5, 0.8, 0.8, 0.8, 1, 0.4, 0.4, 1, 1, 1, 0.8, 0.7, 1, 0.3, 0.3, 0.8, 1, 0.5, 1, 0.1, 0.1, 0.3, 0.6, 0.1, 0.6, -0.3, -0.3, -0.3, -0.3, -0.3, 0.2, 0.2, -0.3, -0.3, -0.3, 0.2, 0.2, 0.4, 0.2, 0.2, -0.5, -0.5]
+diff_list: [0.128, 0.441, 0.859, 0.299, 0.22, 0.405, 1.115, 0.753, 0.599, 0.314, 0.488, 0.571, 0.665, 0.217, 0.727, 0.256, 0.572, 0.512, 0.268, 0.445, 0.513, 0.713, 1.137, 0.324, 0.716, 0.952, 0.18, 0.96, 0.248, 0.676, 0.748, 0.718, 0.696, 0.707, 0.725, 0.168, 0.207, 1.059, 0.788, 0.657, 1.051, 0.488, 0.218, 0.636, 0.455, 0.485, 0.074, 0.412, 0.363, 0.037, 0.31, 0.913, 0.495, 0.075, 0.719, 1.196, 0.439, 0.786, 0.207, 0.807, 1.323, 0.979, 0.461, 0.803, 0.77, 0.495, 1.319, 0.679, 0.874, 0.822, 0.73, 0.355, 1.634, 0.461, 0.423, 1.232, 1.054, 1.121, 0.432, 0.821, 1.419, 1.183, 1.26, 0.471, 1.585, 0.447, 0.718, 0.317, 0.951, 0.766, 0.807, 0.546, 0.246, 1.31, 0.194, 0.217, 0.762, 0.324, 0.399, 0.456, 0.954, 1.328, 1.141, 0.318, 0.956, 0.854, 1.003, 0.11, 0.713, 1.011, 0.019, 1.052, 0.7, 1.081, 1.129, 0.464, 1.024, 1.218, 1.277, 0.646, 0.341, 1.088, 0.332, 0.6, 0.274, 0.72, 0.241, 0.742, 0.623, 0.032, 0.483, 0.853, 0.596, 0.715, 0.689, 0.261, 0.153, 0.759, 1.543, 0.625, 1.598, 1.078, 1.57, 0.987, 1.195, 1.477, 1.35, 1.216, 1.425, 1.15, 1.357, 1.35, 1.18, 1.21, 0.897, 1.343, 1.517, 1.607, 1.417, 1.228, 1.261, 1.446, 1.219, 0.588, 0.549, 0.151, 0.559, 0.413, 0.77, 0.606, 0.312, 0.402, 0.043, 0.57, 0.615, 0.069, 0.063, 0.716, 0.966, 0.826, 0.67, 1.303, 1.322, 1.088, 1.006, 1.159, 0.893, 1.374, 0.749, 0.818, 0.754, 0.968, 1.39, 0.518, 1.382, 0.822, 1.305, 1.314, 1.415, 1.085, 1.307, 1.247, 0.898, 0.81, 0.808, 0.703, 1.72, 1.104, 1.266, 0.948, 0.807, 1.274, 0.466, 1.744, 1.015, 0.305, 1.099, 0.512, 0.093, 0.74, 1.165, 1.288, 1.153, 1.825, 0.787, 1.606, 1.075, 0.873, 1.229, 1.307, 0.327, 0.454, 1.49, 1.346, 0.113, 0.702, 0.409, 0.409, 1.263, 1.514, 0.368, 0.224, 0.06, 0.535, 0.342, 0.535, 0.375, 0.424, 0.376, 0.376, 0.088, 0.746, 0.45, 0.037, 0.63, 0.183, 0.119, 0.177, 0.424, 0.063, 0.048, 0.269, 0.305, 0.549, 0.068, 0.099, 0.894, 0.311, 0.006, 0.09, 1.268, 1.246, 0.487, 0.708, 0.492, 0.515, 1.522, 0.655, 0.956, 0.772, 1.176, 0.281, 1.004, 0.701, 0.823, 0.922, 0.801, 1.195, 0.171, 1.36, 1.236, 0.796, 1.106, 0.666, 0.061, 1.135, 0.489, 0.652, 0.598, 1.543, 0.598, 0.652, 1.723, 0.889, 1.086, 1.142, 1.297, 0.889, 0.402, 0.926, 1.024, 1.02, 1.282, 0.295, 0.549, 1.08, 0.546, 0.476, 1.176, 0.681, 1.045, 0.692, 1.452, 0.488, 0.488, 1.138, 1.112, 0.922, 1.866, 0.55, 0.918, 0.697, 0.697, 0.697, 0.863, 0.929, 0.664, 0.412, 0.697, 0.614, 1.26, 0.289, 0.908, 0.602, 0.517, 0.661, 0.503, 0.008, 1.056, 1.19, 0.94, 0.49, 0.661, 0.931, 0.141, 0.08, 0.878, 0.836, 0.253, 0.901, 0.415, 0.353, 0.33, 0.341, 0.01, 0.563, 0.093, 0.103, 0.103, 0.103, 0.221, 0.262, 0.262, 0.219, 0.221, 0.135, 1.168, 0.686, 1.017, 1.168, 0.438, 1.088, 1.02]
+sum of diff: 284.1839999999997
+mean of diff: 0.7419947780678843
+
+{
+  "id": "chatcmpl-8KuNgBJiCXVF8HdPXmmGSNXPfLqIb",
+  "object": "chat.completion",
+  "created": 1699993980,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 1, 0.8, 0.9, 0.7, -0.3, -0.8, 0.2, 0.4, 0.7, -0.3, 0.6, 1, 0, -0.9, 1, 1, -0.7, 0.5, 1, -0.5, 0.2, 1, 0.8, 0.3, 0.1, 0.4, -0.2, 0.8, 0.4]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 292,
+    "completion_tokens": 134,
+    "total_tokens": 426
+  }
+}{
+  "id": "chatcmpl-8KuO0xBi72aEriOAkg5Z52EsHN99G",
+  "object": "chat.completion",
+  "created": 1699994000,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.2, 1.0, 1.0, 1.0, 1.0, -0.4, -0.8, -0.2, 0.8, 0.8, -0.2, 0.4, 1.0, -0.1, -1.0, 0.6, 0.7, -0.4, -0.3, 1.0, -0.7, 0.4, 1.0, 0.5, 0.6, -0.2, -0.2, -0.3, 1.0, 0.3]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 292,
+    "completion_tokens": 150,
+    "total_tokens": 442
+  }
+}{
+  "id": "chatcmpl-8KuOOwcGcJBKSJi81HE8wjXiN5tTM",
+  "object": "chat.completion",
+  "created": 1699994024,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.5, -0.4, -0.9, 0.2, 0.3, -0.8, 0.6, 0.4, 0.2, 0.2, 0.7, -0.7, 0.8, 0.1, 0.1, 0.8, -0.9, -0.1, 0.7, 0.6, 0.3, -0.9, 0.8, -0.1, -0.4, 0.4, -0.1, -0.1, 0.6, 0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 293,
+    "completion_tokens": 150,
+    "total_tokens": 443
+  }
+}{
+  "id": "chatcmpl-8KuOjTMJltSVb08G8oUGh2ZP6Q7Ge",
+  "object": "chat.completion",
+  "created": 1699994045,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-0.8, -0.7, 0.6, 0.7, -0.7, -0.6, -0.9, -0.7, -0.9, 0.5, -0.5, -0.2, -0.2, 0.6, -0.8, 0.5, 0.5, 0.9, 0.7, 0.9, -0.2, 0.6, 0.7, 0.8, -0.3, -0.5, 0.7, 0.6, 0.5, 0.4]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 292,
+    "completion_tokens": 150,
+    "total_tokens": 442
+  }
+}{
+  "id": "chatcmpl-8KuP6R3980AxebfMxmgC1MoNGr6bS",
+  "object": "chat.completion",
+  "created": 1699994068,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.1, 0.2, 0.4, 0.3, -0.4, -0.2, 0.2, -0.8, 0.1, 0.2, 0.2, -0.9, 0.8, -0.1, -0.9, 0.2, 0.5, -0.7, 0.3, 0.4, -0.6, 0.4, -0.3, -0.8, -0.6, 0.3, 0.6, 0.9, 0.1, -0.9]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 295,
+    "completion_tokens": 150,
+    "total_tokens": 445
+  }
+}{
+  "id": "chatcmpl-8KuPUGsLrf14I1MkTUdGG2jrBFZED",
+  "object": "chat.completion",
+  "created": 1699994092,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.1, 0.6, 0.3, 0.5, -0.5, -0.4, 0.1, -0.3, 0.2, 0.3, 0.2, 0.2, -0.5, 0.1, -0.3, 0.2, 0.6, 0.2, 0.3, 0.6, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 294,
+    "completion_tokens": 150,
+    "total_tokens": 444
+  }
+}{
+  "id": "chatcmpl-8KuPrKT9o3ARrTThJ9KVSo4hiVJdz",
+  "object": "chat.completion",
+  "created": 1699994115,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 303,
+    "completion_tokens": 90,
+    "total_tokens": 393
+  }
+}{
+  "id": "chatcmpl-8KuQAXG5ZDYjGOl1b1AqOKGyI6yEh",
+  "object": "chat.completion",
+  "created": 1699994134,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] \n\nAll words provided are tangible objects, thus they have a strong correlation to 'objects' and would score 1.0. Being physical items, they do not correlate with 'abstract concepts', thus negating a negative score.\n"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 291,
+    "completion_tokens": 196,
+    "total_tokens": 487
+  }
+}{
+  "id": "chatcmpl-8KuQVBVsS6SiVnigCkZe50awT4Mop",
+  "object": "chat.completion",
+  "created": 1699994155,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] \n\nEach of these words refers to a tangible object, so they all strongly relate to the \"objects\" criterion."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 291,
+    "completion_tokens": 173,
+    "total_tokens": 464
+  }
+}{
+  "id": "chatcmpl-8KuQjGdWz9ZzSrabq3ecnyL348F6h",
+  "object": "chat.completion",
+  "created": 1699994169,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 291,
+    "completion_tokens": 90,
+    "total_tokens": 381
+  }
+}{
+  "id": "chatcmpl-8KuR1PNTkpiL6i8wqtRxN6Rx6IrTi",
+  "object": "chat.completion",
+  "created": 1699994187,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -0.5, -0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 271,
+    "completion_tokens": 94,
+    "total_tokens": 365
+  }
+}{
+  "id": "chatcmpl-8KuRLIekCaNWLK3SCKn9ICcQEBx9E",
+  "object": "chat.completion",
+  "created": 1699994207,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -0.2, 0, -0.1, -0.1, 0, 0, 0, -0.4, -0.4, -0.3, -0.3, -0.4, -0.4, 0.2, -0.4, -0.4, -0.5, 0, 0, 0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 279,
+    "completion_tokens": 116,
+    "total_tokens": 395
+  }
+}{
+  "id": "chatcmpl-8KuRh6rBnJjUjyWfnYp8zGYiWZZRP",
+  "object": "chat.completion",
+  "created": 1699994229,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.9, 0.9, -0.9, -0.9, -0.9, -0.9, -0.9, 0.9, 0.9, 0.2, 0.1, 0.2, 0.7, 0.3, 0.1, 0.9, 0.1, 0.9, 0.9, 0.9, 0.9, 0.9, 0.2, 0.1, 0.2, 0.9, -0.2, -1, -0.8, 0.9]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 281,
+    "completion_tokens": 148,
+    "total_tokens": 429
+  }
+}{
+  "id": "chatcmpl-8KuS3DPvWfRpf1p3E5OWuOrHcqB38",
+  "object": "chat.completion",
+  "created": 1699994251,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 275,
+    "completion_tokens": 90,
+    "total_tokens": 365
+  }
+}{
+  "id": "chatcmpl-8KuSM1zN8oSQTR94GSX4q9RcMfa4O",
+  "object": "chat.completion",
+  "created": 1699994270,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-1, -1, -1, -1, -0.5, -0.5, -0.5, -1, -0.8, 0, -0.2, -0.5, -1, -1, -1, -0.8, -1, -1, -1, -0.7, -1, -1, -0.7, -0.5, -0.7, -1, -1, -1, -1, -1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 276,
+    "completion_tokens": 112,
+    "total_tokens": 388
+  }
+}{
+  "id": "chatcmpl-8KuSg1DTKU7cHoLxjPyqXmwcAa5oU",
+  "object": "chat.completion",
+  "created": 1699994290,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 255,
+    "completion_tokens": 69,
+    "total_tokens": 324
+  }
+}
+score_list: [0.2, 1.0, 1.0, 1.0, 1.0, -0.4, -0.8, -0.2, 0.8, 0.8, -0.2, 0.4, 1.0, -0.1, -1.0, 0.6, 0.7, -0.4, -0.3, 1.0, -0.7, 0.4, 1.0, 0.5, 0.6, -0.2, -0.2, -0.3, 1.0, 0.3, 0.5, -0.4, -0.9, 0.2, 0.3, -0.8, 0.6, 0.4, 0.2, 0.2, 0.7, -0.7, 0.8, 0.1, 0.1, 0.8, -0.9, -0.1, 0.7, 0.6, 0.3, -0.9, 0.8, -0.1, -0.4, 0.4, -0.1, -0.1, 0.6, 0.5, -0.8, -0.7, 0.6, 0.7, -0.7, -0.6, -0.9, -0.7, -0.9, 0.5, -0.5, -0.2, -0.2, 0.6, -0.8, 0.5, 0.5, 0.9, 0.7, 0.9, -0.2, 0.6, 0.7, 0.8, -0.3, -0.5, 0.7, 0.6, 0.5, 0.4, 0.1, 0.2, 0.4, 0.3, -0.4, -0.2, 0.2, -0.8, 0.1, 0.2, 0.2, -0.9, 0.8, -0.1, -0.9, 0.2, 0.5, -0.7, 0.3, 0.4, -0.6, 0.4, -0.3, -0.8, -0.6, 0.3, 0.6, 0.9, 0.1, -0.9, 0.1, 0.6, 0.3, 0.5, -0.5, -0.4, 0.1, -0.3, 0.2, 0.3, 0.2, 0.2, -0.5, 0.1, -0.3, 0.2, 0.6, 0.2, 0.3, 0.6, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -0.5, -0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -0.2, 0, -0.1, -0.1, 0, 0, 0, -0.4, -0.4, -0.3, -0.3, -0.4, -0.4, 0.2, -0.4, -0.4, -0.5, 0, 0, 0, 0.9, 0.9, -0.9, -0.9, -0.9, -0.9, -0.9, 0.9, 0.9, 0.2, 0.1, 0.2, 0.7, 0.3, 0.1, 0.9, 0.1, 0.9, 0.9, 0.9, 0.9, 0.9, 0.2, 0.1, 0.2, 0.9, -0.2, -1, -0.8, 0.9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, -0.5, -0.5, -0.5, -1, -0.8, 0, -0.2, -0.5, -1, -1, -1, -0.8, -1, -1, -1, -0.7, -1, -1, -0.7, -0.5, -0.7, -1, -1, -1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+diff_list: [0.072, 0.791, 0.241, 0.599, 0.42, 0.505, 1.415, 0.247, 0.801, 0.714, 0.312, 0.221, 0.485, 0.533, 1.377, 0.156, 0.372, 0.588, 0.832, 0.755, 1.037, 0.213, 0.463, 0.074, 0.366, 0.552, 0.92, 0.14, 1.202, 0.126, 0.248, 0.682, 1.096, 0.093, 0.075, 1.168, 0.307, 0.459, 0.012, 0.143, 0.751, 1.012, 0.718, 0.264, 0.445, 0.285, 0.774, 0.188, 0.063, 0.437, 0.19, 1.013, 1.105, 0.325, 0.681, 0.596, 0.561, 0.386, 0.393, 0.307, 1.123, 0.679, 0.161, 0.703, 0.47, 0.305, 1.219, 0.379, 0.774, 0.322, 0.73, 0.355, 0.834, 0.061, 0.723, 0.832, 0.554, 0.679, 0.132, 0.979, 0.619, 0.783, 0.96, 0.271, 0.985, 0.647, 0.418, 0.117, 0.451, 0.166, 0.093, 0.254, 0.254, 0.61, 0.394, 0.317, 0.038, 1.024, 0.501, 0.344, 0.154, 1.228, 0.359, 0.618, 0.856, 0.354, 0.503, 0.51, 0.013, 0.411, 0.519, 0.452, 0.2, 0.881, 0.929, 0.364, 0.024, 0.682, 0.177, 0.546, 0.241, 0.012, 0.032, 0.2, 0.474, 0.42, 0.459, 0.458, 0.177, 0.632, 0.117, 0.153, 0.596, 0.185, 0.511, 0.861, 0.647, 0.041, 0.843, 0.975, 0.098, 0.522, 0.07, 0.713, 0.405, 0.123, 0.35, 0.284, 0.375, 0.65, 0.643, 0.65, 0.82, 0.79, 1.103, 0.657, 0.483, 0.393, 0.583, 0.772, 0.739, 0.554, 0.781, 0.612, 0.651, 1.049, 0.741, 0.787, 1.17, 0.906, 0.612, 0.902, 0.357, 0.77, 0.915, 0.369, 0.263, 0.916, 0.434, 0.574, 1.33, 0.697, 0.678, 0.912, 0.994, 0.841, 1.107, 0.626, 1.251, 1.182, 1.246, 1.032, 0.61, 1.482, 0.618, 1.178, 0.695, 0.686, 0.585, 0.915, 0.693, 0.753, 1.102, 1.19, 1.192, 1.297, 0.28, 0.896, 0.734, 1.052, 0.807, 0.726, 0.734, 0.256, 0.985, 0.505, 0.401, 0.812, 0.407, 0.26, 0.165, 0.288, 0.153, 0.825, 0.213, 0.606, 0.075, 0.127, 0.229, 0.307, 0.673, 0.546, 0.49, 0.346, 0.513, 0.302, 0.009, 0.009, 0.763, 1.014, 0.368, 0.224, 0.06, 0.535, 0.342, 0.535, 0.375, 0.424, 0.376, 0.376, 0.288, 0.746, 0.35, 0.137, 0.63, 0.183, 0.119, 0.223, 0.024, 0.237, 0.252, 0.131, 0.095, 0.749, 0.332, 0.499, 0.394, 0.311, 0.006, 0.09, 0.632, 0.654, 1.213, 0.992, 1.208, 1.285, 0.278, 1.245, 0.944, 0.428, 0.076, 0.219, 0.696, 0.599, 0.277, 0.978, 0.299, 0.705, 0.229, 0.54, 0.664, 1.104, 0.094, 0.666, 0.061, 0.765, 0.011, 0.652, 0.398, 0.357, 0.402, 0.348, 0.723, 0.111, 0.086, 0.142, 0.297, 0.111, 0.598, 0.074, 0.024, 0.02, 0.282, 0.205, 0.451, 0.08, 0.454, 0.524, 0.176, 0.319, 0.045, 0.008, 0.452, 0.512, 0.512, 0.138, 0.112, 0.078, 0.866, 0.45, 0.918, 0.803, 0.803, 0.803, 0.363, 0.429, 0.164, 1.588, 1.103, 0.386, 0.06, 0.711, 0.892, 1.198, 1.283, 1.139, 0.897, 1.392, 0.944, 0.51, 1.06, 1.31, 0.739, 0.569, 0.859, 1.38, 0.922, 1.164, 1.247, 1.099, 0.515, 0.253, 0.03, 0.259, 0.11, 0.037, 0.207, 0.403, 0.403, 0.403, 0.521, 0.062, 0.062, 0.519, 0.521, 0.435, 0.968, 0.486, 0.617, 0.968, 0.238, 0.588, 0.52]
+sum of diff: 208.50599999999986
+mean of diff: 0.5444020887728456
+
+{
+  "id": "chatcmpl-8KuaM74z9mFJbIsUhnIPg4V7z1E3p",
+  "object": "chat.completion",
+  "created": 1699994766,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.1, 0.9, 0.4, 0.9, 0.4, -0.2, -0.7, 0.3, 0.8, 0.8, -0.1, 0.3, 0.8, 0.2, -0.9, 0.6, 0.8, -0.5, 0.6, 0.8, -0.3, 0.7, 0.9, 0.3, 0.4, 0.7, -0.5, 0.1, 0.9, 0.4]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 292,
+    "completion_tokens": 150,
+    "total_tokens": 442
+  }
+}{
+  "id": "chatcmpl-8KuajVgKHsOg32s6iMhMooCWGi4iA",
+  "object": "chat.completion",
+  "created": 1699994789,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.5, -0.5, -0.9, 0.3, 0.5, -0.7, 0.8, 0.2, 0, 0.5, 0.8, -0.8, 0.9, 0.3, 0.4, 0.8, -0.7, 0, 0.9, 0.8, 0.9, -0.9, 0.9, -0.2, 0, -0.2, -0.1, 0, 0.6, 0.4]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 293,
+    "completion_tokens": 142,
+    "total_tokens": 435
+  }
+}{
+  "id": "chatcmpl-8Kub5fwW5Jge76yTv3oG3ez58R8gv",
+  "object": "chat.completion",
+  "created": 1699994811,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[-0.9, -0.6, 0.1, 0.3, -0.8, -0.9, -0.95, -0.9, -0.95, 0.1, -0.85, -0.1, -0.6, 0.1, -0.8, 0.2, 0.1, 0.7, 0.2, 0.9, 0.1, 0.3, 0.1, 0.2, -0.85, -0.85, 0.3, 0.2, 0.05, 0.1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 292,
+    "completion_tokens": 150,
+    "total_tokens": 442
+  }
+}{
+  "id": "chatcmpl-8KubTyetiRClhfXINSEOmgkbZ0jGP",
+  "object": "chat.completion",
+  "created": 1699994835,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.0, 0.0, 0.0, -0.2, -0.2, 0.0, -0.8, -0.2, 0.0, 0.0, -1.0, 0.8, -0.2, -1.0, 0.0, 0.0, -1.0, 0.0, 0.0, -0.8, 0.0, -0.8, -1.0, -0.8, -0.2, -0.2, 0.9, -0.5, -1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 295,
+    "completion_tokens": 150,
+    "total_tokens": 445
+  }
+}{
+  "id": "chatcmpl-8KubsAZAIvhgiBfpCDHhS1tohDARw",
+  "object": "chat.completion",
+  "created": 1699994860,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, -0.2, 0, -0.5, -0.7, -0.5, 0.1, -0.8, 0, 0, -0.1, 0.1, -0.9, -0.2, -0.8, 0, 0.5, 0.3, 0.2, 0.7, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 294,
+    "completion_tokens": 140,
+    "total_tokens": 434
+  }
+}{
+  "id": "chatcmpl-8KucArfwsIkcSUVgqSim3GKaHNsFa",
+  "object": "chat.completion",
+  "created": 1699994878,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 303,
+    "completion_tokens": 90,
+    "total_tokens": 393
+  }
+}{
+  "id": "chatcmpl-8KucT0vk0rzUuZ173vZRz9jE1gWiR",
+  "object": "chat.completion",
+  "created": 1699994897,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 291,
+    "completion_tokens": 150,
+    "total_tokens": 441
+  }
+}{
+  "id": "chatcmpl-8KucnO4eQniO74FOl0Rpg9V6wqaiO",
+  "object": "chat.completion",
+  "created": 1699994917,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -0.5, -0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 271,
+    "completion_tokens": 112,
+    "total_tokens": 383
+  }
+}{
+  "id": "chatcmpl-8Kud7W9mOSRrSdRlruqVnBUgRZdcg",
+  "object": "chat.completion",
+  "created": 1699994937,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.5, -0.6, -0.6, -0.6, -0.6, -0.6, -0.9, 0.0, 0.0, 0.0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 279,
+    "completion_tokens": 150,
+    "total_tokens": 429
+  }
+}{
+  "id": "chatcmpl-8KudV3LcrkFfqFjcKa5dzyspRsqoT",
+  "object": "chat.completion",
+  "created": 1699994961,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0.9, 0.9, -0.7, -0.7, -0.7, -0.7, -0.7, 0.9, 0.1, 0.4, 0.2, 0.3, 0.5, 0.7, 0.4, 0.6, 0.4, 0.9, 0.8, 0.9, 0.9, 0.6, 0.4, 0.6, 0.7, 0.9, 0.5, -0.7, -0.7, 0.5]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 281,
+    "completion_tokens": 150,
+    "total_tokens": 431
+  }
+}{
+  "id": "chatcmpl-8Kudrfyzr59i1fw8PNDDDOG8hSURZ",
+  "object": "chat.completion",
+  "created": 1699994983,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, 0, 0, 0, 0, 0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 275,
+    "completion_tokens": 104,
+    "total_tokens": 379
+  }
+}{
+  "id": "chatcmpl-8Kue8QucdSL4sk8o5PrGTMuEHrSqq",
+  "object": "chat.completion",
+  "created": 1699995000,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0, 0, 0, 0, 0, 0, -0.2, -0.2, 0.8, 0.4, 0, -0.2, -0.2, -0.2, -0.2, -0.4, -0.4, -0.4, -0.4, -0.4, -0.2, -0.6, 0, -0.6, -0.6, -0.2, -0.2, 0, -0.2]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 276,
+    "completion_tokens": 130,
+    "total_tokens": 406
+  }
+}{
+  "id": "chatcmpl-8KueSFjgYWEV9LfrTUPo6NEZHfNy2",
+  "object": "chat.completion",
+  "created": 1699995020,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 255,
+    "completion_tokens": 69,
+    "total_tokens": 324
+  }
+}
+score_list: [0.1, 0.9, 0.4, 0.9, 0.4, -0.2, -0.7, 0.3, 0.8, 0.8, -0.1, 0.3, 0.8, 0.2, -0.9, 0.6, 0.8, -0.5, 0.6, 0.8, -0.3, 0.7, 0.9, 0.3, 0.4, 0.7, -0.5, 0.1, 0.9, 0.4, 0.5, -0.5, -0.9, 0.3, 0.5, -0.7, 0.8, 0.2, 0, 0.5, 0.8, -0.8, 0.9, 0.3, 0.4, 0.8, -0.7, 0, 0.9, 0.8, 0.9, -0.9, 0.9, -0.2, 0, -0.2, -0.1, 0, 0.6, 0.4, -0.9, -0.6, 0.1, 0.3, -0.8, -0.9, -0.95, -0.9, -0.95, 0.1, -0.85, -0.1, -0.6, 0.1, -0.8, 0.2, 0.1, 0.7, 0.2, 0.9, 0.1, 0.3, 0.1, 0.2, -0.85, -0.85, 0.3, 0.2, 0.05, 0.1, 0.0, 0.0, 0.0, 0.0, -0.2, -0.2, 0.0, -0.8, -0.2, 0.0, 0.0, -1.0, 0.8, -0.2, -1.0, 0.0, 0.0, -1.0, 0.0, 0.0, -0.8, 0.0, -0.8, -1.0, -0.8, -0.2, -0.2, 0.9, -0.5, -1.0, 0, -0.2, 0, -0.5, -0.7, -0.5, 0.1, -0.8, 0, 0, -0.1, 0.1, -0.9, -0.2, -0.8, 0, 0.5, 0.3, 0.2, 0.7, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -0.5, -0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.5, -0.6, -0.6, -0.6, -0.6, -0.6, -0.9, 0.0, 0.0, 0.0, 0.9, 0.9, -0.7, -0.7, -0.7, -0.7, -0.7, 0.9, 0.1, 0.4, 0.2, 0.3, 0.5, 0.7, 0.4, 0.6, 0.4, 0.9, 0.8, 0.9, 0.9, 0.6, 0.4, 0.6, 0.7, 0.9, 0.5, -0.7, -0.7, 0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -0.2, -0.2, 0.8, 0.4, 0, -0.2, -0.2, -0.2, -0.2, -0.4, -0.4, -0.4, -0.4, -0.4, -0.2, -0.6, 0, -0.6, -0.6, -0.2, -0.2, 0, -0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+diff_list: [0.028, 0.691, 0.359, 0.499, 0.18, 0.305, 1.315, 0.253, 0.801, 0.714, 0.212, 0.121, 0.285, 0.233, 1.277, 0.156, 0.472, 0.688, 0.068, 0.555, 0.637, 0.513, 0.363, 0.126, 0.166, 0.348, 1.22, 0.26, 1.102, 0.226, 0.248, 0.782, 1.096, 0.007, 0.275, 1.068, 0.507, 0.259, 0.212, 0.157, 0.851, 1.112, 0.818, 0.064, 0.145, 0.285, 0.574, 0.088, 0.263, 0.637, 0.41, 1.013, 1.205, 0.225, 0.281, 0.004, 0.561, 0.486, 0.393, 0.207, 1.223, 0.579, 0.339, 0.303, 0.57, 0.605, 1.269, 0.579, 0.824, 0.078, 1.08, 0.255, 1.234, 0.439, 0.723, 0.532, 0.154, 0.479, 0.368, 0.979, 0.319, 0.483, 0.36, 0.329, 1.535, 0.997, 0.018, 0.283, 0.001, 0.134, 0.193, 0.454, 0.146, 0.31, 0.194, 0.317, 0.238, 1.024, 0.801, 0.544, 0.046, 1.328, 0.359, 0.718, 0.956, 0.154, 0.003, 0.81, 0.287, 0.011, 0.719, 0.052, 0.7, 1.081, 1.129, 0.864, 0.824, 0.682, 0.777, 0.646, 0.341, 0.788, 0.332, 0.8, 0.674, 0.52, 0.459, 0.958, 0.377, 0.332, 0.417, 0.053, 0.996, 0.485, 1.011, 0.661, 0.547, 0.059, 0.743, 1.075, 0.098, 0.522, 0.07, 0.713, 0.405, 0.123, 0.35, 0.284, 0.375, 0.65, 0.643, 0.65, 0.82, 0.79, 1.103, 0.657, 0.483, 0.393, 0.583, 0.772, 0.739, 0.554, 0.781, 0.612, 0.651, 1.049, 0.741, 0.787, 1.17, 0.906, 0.612, 0.902, 0.357, 0.77, 0.915, 0.369, 0.263, 0.916, 0.434, 0.574, 1.33, 0.697, 0.678, 0.912, 0.994, 0.841, 1.107, 0.626, 1.251, 1.182, 1.246, 1.032, 0.61, 1.482, 0.618, 1.178, 0.695, 0.686, 0.585, 0.915, 0.693, 0.753, 1.102, 1.19, 1.192, 1.297, 0.28, 0.896, 0.734, 1.052, 0.807, 0.726, 0.734, 0.256, 0.985, 0.505, 0.401, 0.812, 0.407, 0.26, 0.165, 0.288, 0.153, 0.825, 0.213, 0.606, 0.075, 0.127, 0.229, 0.307, 0.673, 0.546, 0.49, 0.346, 0.513, 0.302, 0.009, 0.009, 0.763, 1.014, 0.368, 0.224, 0.06, 0.535, 0.342, 0.535, 0.375, 0.424, 0.376, 0.376, 0.988, 0.746, 0.45, 0.037, 0.63, 0.183, 0.119, 0.177, 0.424, 0.063, 0.452, 0.331, 0.295, 0.051, 0.532, 0.699, 0.006, 0.311, 0.006, 0.09, 0.632, 0.654, 1.013, 0.792, 1.008, 1.085, 0.078, 1.245, 0.144, 0.628, 0.024, 0.119, 0.496, 0.999, 0.577, 0.678, 0.599, 0.705, 0.129, 0.54, 0.664, 0.804, 0.294, 0.166, 0.561, 0.765, 0.689, 0.352, 0.298, 0.043, 0.402, 0.348, 0.723, 0.111, 0.086, 0.142, 0.297, 0.111, 0.598, 0.074, 0.024, 0.02, 0.282, 0.205, 0.451, 0.08, 0.454, 0.524, 0.376, 0.119, 0.245, 0.208, 0.652, 0.312, 0.312, 0.138, 0.112, 0.078, 0.866, 0.45, 0.082, 0.197, 0.197, 0.197, 0.137, 0.071, 0.336, 0.788, 0.503, 0.414, 0.66, 0.211, 0.092, 0.398, 0.483, 0.539, 0.297, 0.792, 0.344, 0.21, 0.46, 0.51, 0.639, 0.069, 0.759, 0.98, 0.122, 0.364, 0.247, 0.299, 0.515, 0.253, 0.03, 0.259, 0.11, 0.037, 0.207, 0.403, 0.403, 0.403, 0.521, 0.062, 0.062, 0.519, 0.521, 0.435, 0.968, 0.486, 0.617, 0.968, 0.238, 0.588, 0.52]
+sum of diff: 195.76600000000005
+mean of diff: 0.5111383812010445
+
