@@ -6,7 +6,7 @@ interpretations.txt
 .DS_Store
 comparison-between-runs.txt
 output.csv
-.ipynb_checkpoints
+*.ipynb_checkpoints
 .vscode
 llm_scores.csv
 auto_output.txt
