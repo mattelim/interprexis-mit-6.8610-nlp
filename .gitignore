@@ -10,3 +10,4 @@ output.csv
 .vscode
 llm_scores.csv
 auto_output.txt
+pipeline_1211_m.ipynb
