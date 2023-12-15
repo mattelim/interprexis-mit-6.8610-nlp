@@ -1,3 +1,8 @@
+# InterpreXis
+![image](https://github.com/mattelim/interprexis-mit-6.8610-nlp/assets/43099514/ed8583e0-b666-4af3-ada8-d26930338c50)
+**tldr:** We propose InterpreXis, a novel approach to finding human-interpretable concepts inside contextual word embeddings. InterpreXis involves training linear classifiers to identify interpretable axis groups, which can be used for
+downstream tasks such as text classification and visualization.
+
 ## set up instructions
 
 ### secrets file
